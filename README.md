@@ -60,4 +60,5 @@ This repository contains the server-side code for the Biwooda web service. It pr
 | Method | Endpoint               | Description              |
 |--------|------------------------|--------------------------|
 | POST   | /payment/ready         | Send payment details     |
+| POST   | /payment/borrow-cancel | Refund payment           |
 | POST   | /payment/return        | Return umbrella          |
